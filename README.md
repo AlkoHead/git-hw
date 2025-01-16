@@ -20,3 +20,4 @@ netology git home work
 1. Сделайте `git push origin master`.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+[First commit](https://github.com/AlkoHead/git-hw/commit/5a72da7a9bdf99da607fd1814ddbea579daefd58)
