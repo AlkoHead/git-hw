@@ -51,5 +51,6 @@ netology git home work
 7. Сделайте пуш в основной ветке.
 8. Не удаляйте ветку dev.  
 
-[Решение 3]()
+[Решение 3](https://github.com/AlkoHead/git-hw/network)  
+
 
