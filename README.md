@@ -34,4 +34,4 @@ netology git home work
 1. Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.  
-[Решение 2]()
+[Решение 2](https://github.com/AlkoHead/git-hw/commit/e8c61a9b32bbaab5591476af01283a1f62ef2829)
