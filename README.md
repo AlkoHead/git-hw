@@ -17,7 +17,8 @@ netology git home work
 1. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
 1. Ещё раз выполните команды `git diff` и `git diff --staged`.
 1. Теперь можно сделать коммит `git commit -m 'First commit'`.
-1. Сделайте `git push origin master`.
+1. Сделайте `git push origin master`. (git push -u origin main)
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
 [First commit](https://github.com/AlkoHead/git-hw/commit/5a72da7a9bdf99da607fd1814ddbea579daefd58)
