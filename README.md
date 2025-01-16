@@ -53,4 +53,4 @@ netology git home work
 
 [Решение 3](https://github.com/AlkoHead/git-hw/network)  
 
-
+![Картинка](img/nwgraph.JPG)
